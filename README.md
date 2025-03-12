@@ -26,7 +26,7 @@ A real-time 1-to-1 chat application built with Node.js, Express, and Socket.IO t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/handson-nodejs-chat.git
+   git clone https://github.com/timeless-residents/handson-nodejs-chat.git
    cd handson-nodejs-chat
    ```
 
